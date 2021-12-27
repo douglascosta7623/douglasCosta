@@ -1,16 +1,68 @@
-<h1 align="center">Hi 👋, I'm Douglas Costa</h1>
-<h3 align="center">Reinventing myself and expanding knowledge. Acquiring new skills in web development and very excited. Learning HTML, CSS, JavaScript, NodeJS and React.</h3>
+![Douglas Costa](./img/banner-02.png)
 
-- 📫 How to reach me **douglasaquinocosta@gmail**
+# <b>[Douglas Costa](https://www.fb.com/softwarealles)</b>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/douglas-costa-lima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/douglas-costa-lima/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/douglascostaem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/douglascostaem/" height="30" width="40" /></a>
-</p>
+Olá sou Douglas Costa residente atualmente em São Paulo - SP 🇧🇷 , estou estudando UI Design e Front-End.<br>
+Curto jogar video-game 🎮, ler livros de desenvolvimento pessoal, mistério/suspense, pai do Valentim Bernardo, minha principal motivação. Descobri que minha paixão é desenvolvimento 💻, aperfeiçoar minhas habilidades no Front-End.<br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglascosta7623&show_icons=true&theme=onedark)
+<img src="./img/ui.png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 
+## <b>Objetivo Profissional</b>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Tenho como objetivo alcançar uma posição de junior na área de front-end. Espero criar capacitação para meu próprio desenvolvimento e inspirar os jovens e contribuir com o crescimento da empresa.<br><br><br>
+
+## <b>Experiência Profissional</b>
+
+### **Loading...**<br>
+
+_Loading_ | 2021-Atualmente<br>
+
+- Estudando Diariamente.
+
+## <b>Estudos / Cursos</b>
+
+### <b>Origamid</b>
+
+### _Front-end_ / _Web Design_
+
+✔ HTML / CSS / JS<br>
+✔ UI-UX Design / Adobe-XD<br>
+
+_Projeto desenvolvido:_ <b>Bikcraft</b>
+_Projeto desenvolvido:_ <b>Portfólio</b>
+
+### <b>Codeboost</b>
+
+### _Front-end_
+
+✔ HTML, CSS, JS<br>
+✔ React<br>
+✔ NextJS<br>
+
+_Projeto desenvolvido:_ <b>Wireframe</b>
+_Projeto desenvolvido:_ <b>LP - Kinghost</b>
+_Projeto desenvolvido:_ <b>LP - Neon</b><br><br><br>
+
+## <b>Minhas Habilidades</b>
+
+✔ HTML :star::star::star::star::star::star::star: 7/10<br>
+
+✔ CSS :star::star::star::star::star::star: 6/10<br>
+
+✔ JS/ES6 :star::star::star::star::star: 5/10<br>
+
+✔ NodeJS :star::star: 2/10<br>
+
+## <b>Idiomas</b>
+
+<b>Português:</b> Nativo<br>
+<b>Inglês:</b> Iniciante<br><br><br><br>
+
+## <b>Entre em Contato<b>
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SITE-www.douglascosta.com-black?style=for-the-badge"></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=5511937076925&text=Vim pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)93707--6925-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
+<a href="mailto: douglasaquinocosta@gmail.com"><img src="https://img.shields.io/badge/Email-douglasaquinocosta@gmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
+<a href="https://linkedin.com/in/douglas-costa-lima" target="_blank"><img src="https://img.shields.io/badge/Linkedin-@DOUGLAS__COSTA-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp; &nbsp;
+
+<br><br><br><br><br><br><br><br><br><br><br><br><a href="https://fb.com/softwarealles"><img src="https://img.shields.io/badge/author-Diogo Realles-lightgrey"></a> &nbsp;
