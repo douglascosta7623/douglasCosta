@@ -1,4 +1,4 @@
-![Douglas Costa](./img/banner-02.png)
+![Douglas Costa](./img/banner-02.jpg)
 
 # <b>[Douglas Costa](https://www.fb.com/softwarealles)</b>
 
