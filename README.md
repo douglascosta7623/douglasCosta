@@ -1,6 +1,6 @@
 ![Douglas Costa](./img/banner-02.jpg)
 
-# <b>[Douglas Costa](https://www.fb.com/softwarealles)</b>
+# <b>[Douglas Costa](https://github.com/douglascosta7623)</b>
 
 Olá sou Douglas Costa residente atualmente em São Paulo - SP 🇧🇷 , estou estudando UI Design e Front-End.<br>
 Curto jogar video-game 🎮, ler livros de desenvolvimento pessoal, mistério/suspense, pai do Valentim Bernardo, minha principal motivação. Descobri que minha paixão é desenvolvimento 💻, aperfeiçoar minhas habilidades no Front-End.<br><br><br>
