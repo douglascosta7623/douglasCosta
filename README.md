@@ -3,7 +3,7 @@
 # <b>[Douglas Costa](https://github.com/douglascosta7623)</b>
 
 Olá sou Douglas Costa residente atualmente em São Paulo - SP 🇧🇷 , estou estudando UI Design e Front-End.<br>
-Curto jogar video-game 🎮, ler livros de desenvolvimento pessoal, mistério/suspense, pai do Valentim Bernardo, minha principal motivação. Descobri que minha paixão é desenvolvimento 💻, aperfeiçoar minhas habilidades no Front-End.<br><br><br>
+Curto jogar video-game 🎮, ler livros de desenvolvimento pessoal, mistério/suspense, pai do Valentim Bernardo, minha principal motivação. Descobri que minha paixão é desenvolvimento 💻, aperfeiçoar minhas habilidades diariamente no Front-End, é meu foco maior de estudo.<br><br><br>
 
 <img src="./img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="badges">
 
