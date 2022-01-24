@@ -58,7 +58,6 @@ _Projeto desenvolvido:_ <b>LP - Kinghost</b>
 
 ## <b>Entre em Contato<b>
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SITE-www.douglascosta.com-black?style=for-the-badge"></a> &nbsp;
 <a href="https://api.whatsapp.com/send?phone=5511937076925&text=Vim pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)93707--6925-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
 <a href="mailto: douglasaquinocosta@gmail.com"><img src="https://img.shields.io/badge/Email-douglasaquinocosta@gmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
 <a href="https://linkedin.com/in/douglas-costa-lima" target="_blank"><img src="https://img.shields.io/badge/Linkedin-@DOUGLAS__COSTA-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp; &nbsp;
