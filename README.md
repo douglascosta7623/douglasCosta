@@ -26,9 +26,8 @@ _Loading_ | 2021-Atualmente<br>
 ### _Front-end_ / _Web Design_
 
 ✔ HTML / CSS / JS<br>
-✔ UI-UX Design / Adobe-XD<br>
+✔ UI-UX Design <br>
 
-_Projeto desenvolvido:_ <b>Bikcraft</b>
 _Projeto desenvolvido:_ <b>Portfólio</b>
 
 ### <b>Codeboost</b>
@@ -41,15 +40,14 @@ _Projeto desenvolvido:_ <b>Portfólio</b>
 
 _Projeto desenvolvido:_ <b>Wireframe</b>
 _Projeto desenvolvido:_ <b>LP - Kinghost</b>
-_Projeto desenvolvido:_ <b>LP - Neon</b><br><br><br>
 
 ## <b>Minhas Habilidades</b>
 
-✔ HTML :star::star::star::star::star::star::star: 7/10<br>
+✔ HTML :star::star::star::star::star::star: 7/10<br>
 
 ✔ CSS :star::star::star::star::star::star: 6/10<br>
 
-✔ JS/ES6 :star::star::star::star::star: 5/10<br>
+✔ JS/ES6 :star::star::star::star: 5/10<br>
 
 ✔ NodeJS :star::star: 2/10<br>
 
@@ -61,8 +59,8 @@ _Projeto desenvolvido:_ <b>LP - Neon</b><br><br><br>
 ## <b>Entre em Contato<b>
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SITE-www.douglascosta.com-black?style=for-the-badge"></a> &nbsp;
-<a href="https://api.whatsapp.com/send?phone=5511937076925&text=Vim pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)93707--6925-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=5511937076925&text=Vim pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)93707-6925-success/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
 <a href="mailto: douglasaquinocosta@gmail.com"><img src="https://img.shields.io/badge/Email-douglasaquinocosta@gmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
 <a href="https://linkedin.com/in/douglas-costa-lima" target="_blank"><img src="https://img.shields.io/badge/Linkedin-@DOUGLAS__COSTA-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp; &nbsp;
 
-<br><br><br><br><br><br><br><br><br><br><br><br><a href="https://fb.com/softwarealles"><img src="https://img.shields.io/badge/author-Diogo Realles-lightgrey"></a> &nbsp;
+
