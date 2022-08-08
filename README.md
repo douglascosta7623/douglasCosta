@@ -43,7 +43,7 @@ _Projeto desenvolvido:_ <b>LP - Kinghost</b>
 
 ## <b>Minhas Habilidades</b>
 
-✔ HTML :star::star::star::star::star::star::star 8/10<br>
+✔ HTML :star::star::star::star::star::star::star:star: 8/10<br>
 
 ✔ CSS :star::star::star::star::star::star::star::star: 8/10<br>
 
